@@ -28,7 +28,7 @@ const LoginFirebase = () => {
   if (!user) {
     return (
       <View>
-        <Text>Login Please Bib</Text>
+        <Text>Login BROOOOOOOOOOOO</Text>
       </View>
     );
   }
