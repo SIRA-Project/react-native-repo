@@ -1,0 +1,1 @@
+export const Path = 'http://192.168.1.5/server-snap';
